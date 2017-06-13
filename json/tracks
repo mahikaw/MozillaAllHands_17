@@ -1,0 +1,971 @@
+[ 
+    {
+        "id": 455, 
+        "name": "All Hands", 
+        "color": "#E74C3C",
+		"font_color": "#FFFFFF",
+        "sessions": [
+			{
+                "id": 1001, 
+                "title": "Registration and Information Desk"
+            },
+			{
+                "id": 1046, 
+                "title": "Registration and Information Desk"
+            },
+			{
+                "id": 1047, 
+                "title": "Registration and Information Desk"
+            },
+			{
+                "id": 1048, 
+                "title": "Registration and Information Desk"
+            },
+			{
+                "id": 1049, 
+                "title": "Registration and Information Desk"
+            }
+		], 
+        "track_image_url": ""
+    },
+	{
+        "id": 456, 
+        "name": "Meals", 
+        "color": "#F39C12",
+		"font_color": "#000000",
+        "sessions": [
+			{
+                "id": 1003, 
+                "title": "Breakfast"
+            },
+			{
+                "id": 1004, 
+                "title": "Lunch"
+            },
+			{
+                "id": 1005, 
+                "title": "Breakfast"
+            },
+			{
+                "id": 1006, 
+                "title": "Breakfast"
+            },
+			{
+                "id": 1007, 
+                "title": "Breakfast"
+            },
+			{
+                "id": 1008, 
+                "title": "Lunch"
+            },
+			{
+                "id": 1009, 
+                "title": "Lunch"
+            },
+			{
+                "id": 1010, 
+                "title": "Lunch"
+            }
+		], 
+        "track_image_url": ""
+    },
+	{
+        "id": 457, 
+        "name": "Firefox", 
+        "color": "#5DADE2",
+		"font_color": "#FFFFFF",
+        "sessions": [
+			{
+                "id": 1011, 
+                "title": "Taskcluster 2nd Half 2017 Planning Meeting"
+            },
+			{
+                "id": 1012, 
+                "title": "Taskcluster Migration and Support"
+            },
+			{
+                "id": 1013, 
+                "title": "Release Engineering Retrospective"
+            },
+			{
+                "id": 1014, 
+                "title": "Test Pilot Field Research Findings and Recommendations"
+            },
+			{
+                "id": 1015, 
+                "title": "Q&A Session with Nick Nguyen and NMX Team"
+            },
+			{
+                "id": 1016, 
+                "title": "Firefox Product & Program/Project Management Homeroom"
+            },
+			{
+                "id": 1017, 
+                "title": "Firefox Product & Program/Project Management Homeroom"
+            },
+			{
+                "id": 1018, 
+                "title": "Firefox Product & Program/Project Management Homeroom"
+            },
+			{
+                "id": 1019, 
+                "title": "Firefox Product & Program/Project Management Homeroom"
+            },
+			{
+				"id": 1026,
+				"title": "Firefox UX Homeroom"
+			},
+			{
+				"id": 1027,
+				"title": "Firefox UX Homeroom"
+			},
+			{
+				"id": 1028,
+				"title": "Firefox UX Homeroom"
+			},
+			{
+				"id": 1029,
+				"title": "Firefox UX Homeroom"
+			},
+			{
+				"id": 1030,
+				"title": "Firefox Add-Ons Engineering Homeroom"
+			},
+			{
+				"id": 1031,
+				"title": "Firefox Add-Ons Engineering Homeroom"
+			},
+			{
+				"id": 1032,
+				"title": "Firefox Add-Ons Engineering Homeroom"
+			},
+			{
+				"id": 1033,
+				"title": "Firefox Add-Ons Engineering Homeroom"
+			},
+			{
+				"id": 1035,
+				"title": "e10s Planning"
+			},
+			{
+				"id": 1037,
+				"title": "Add-on Review Operations"
+			},
+			{
+				"id": 1039,
+				"title": "Firefox Layout Team All-Hands"
+			},
+			{
+                "id": 1050, 
+                "title": "Firefox Visuals Homeroom"
+            },
+			{
+                "id": 1051, 
+                "title": "Firefox Visuals Homeroom"
+            },
+			{
+                "id": 1052, 
+                "title": "Firefox Visuals Homeroom"
+            },
+			{
+                "id": 1053, 
+                "title": "Firefox Visuals Homeroom"
+            },
+			{
+                "id": 1054, 
+                "title": "Firefox Photon Homeroom"
+            },
+			{
+                "id": 1055, 
+                "title": "Firefox Photon Homeroom"
+            },
+			{
+                "id": 1056, 
+                "title": "Firefox Photon Homeroom"
+            },
+			{
+                "id": 1057, 
+                "title": "Firefox Photon Homeroom"
+            },
+			{
+                "id": 1058, 
+                "title": "Firefox Quantum Flow Homeroom"
+            },
+			{
+                "id": 1059, 
+                "title": "Firefox Quantum Flow Homeroom"
+            },
+			{
+                "id": 1060, 
+                "title": "Firefox Quantum Flow Homeroom"
+            },
+			{
+                "id": 1061, 
+                "title": "Firefox Quantum Flow Homeroom"
+            },
+			{
+                "id": 1062, 
+                "title": "Firefox Quantum DOM Homeroom"
+            },
+			{
+                "id": 1063, 
+                "title": "Firefox Quantum DOM Homeroom"
+            },
+			{
+                "id": 1064, 
+                "title": "Firefox Quantum DOM Homeroom"
+            },
+			{
+                "id": 1065, 
+                "title": "Firefox Quantum DOM Homeroom"
+            },
+			{
+                "id": 1066, 
+                "title": "Firefox Password Manager Homeroom"
+            },
+			{
+                "id": 1067, 
+                "title": "Firefox Password Manager Homeroom"
+            },
+			{
+                "id": 1068, 
+                "title": "Firefox Password Manager Homeroom"
+            },
+			{
+                "id": 1069, 
+                "title": "Firefox Password Manager Homeroom"
+            },
+			{
+                "id": 1070, 
+                "title": "Firefox Quantum Render Homeroom"
+            },
+			{
+                "id": 1071, 
+                "title": "Firefox Quantum Render Homeroom"
+            },
+			{
+                "id": 1072, 
+                "title": "Firefox Quantum Render Homeroom"
+            },
+			{
+                "id": 1073, 
+                "title": "Firefox Quantum Render Homeroom"
+            },
+			{
+                "id": 1074, 
+                "title": "Firefox Runtime Homeroom"
+            },
+			{
+                "id": 1075, 
+                "title": "Firefox Runtime Homeroom"
+            },
+			{
+                "id": 1076, 
+                "title": "Firefox Runtime Homeroom"
+            },
+			{
+                "id": 1077, 
+                "title": "Firefox Runtime Homeroom"
+            },
+			{
+                "id": 1078, 
+                "title": "Firefox Quiet Room"
+            },
+			{
+                "id": 1079, 
+                "title": "Firefox Quiet Room"
+            },
+			{
+                "id": 1080, 
+                "title": "Firefox Quiet Room"
+            },
+			{
+                "id": 1081, 
+                "title": "Firefox Quiet Room"
+            },
+			{
+                "id": 1082, 
+                "title": "Firefox Quantum Network Homeroom"
+            },
+			{
+                "id": 1083, 
+                "title": "Firefox Quantum Network Homeroom"
+            },
+			{
+                "id": 1084, 
+                "title": "Firefox Quantum Network Homeroom"
+            },
+			{
+                "id": 1085, 
+                "title": "Firefox Quantum Network Homeroom"
+            },
+			{
+                "id": 1195, 
+                "title": "Firefox Engineering/Services Operations Homeroom"
+            },
+			{
+                "id": 1196, 
+                "title": "Firefox Engineering/Services Operations Homeroom"
+            },
+			{
+                "id": 1197, 
+                "title": "Firefox Engineering/Services Operations Homeroom"
+            },
+			{
+                "id": 1198, 
+                "title": "Firefox Engineering/Services Operations Homeroom"
+            },
+			{
+                "id": 1201, 
+                "title": "Test Pilot Q2 Review and Q3 Planning"
+            },
+			{
+                "id": 1202, 
+                "title": "Firefox Quantum Stylo Homeroom"
+            },
+			{
+                "id": 1203, 
+                "title": "Firefox Quantum Stylo Homeroom"
+            },
+			{
+                "id": 1204, 
+                "title": "Firefox Quantum Stylo Homeroom"
+            },
+			{
+                "id": 1205, 
+                "title": "Firefox Quantum Stylo Homeroom"
+            },
+			{
+                "id": 1206, 
+                "title": "Firefox Team All Hands"
+            },
+			{
+                "id": 1207, 
+                "title": "Firefox Engineering Operations"
+            },
+			{
+                "id": 1208, 
+                "title": "Firefox Engineering Operations"
+            },
+			{
+                "id": 1209, 
+                "title": "Firefox Engineering Operations"
+            },
+			{
+                "id": 1210, 
+                "title": "Firefox Engineering Operations"
+            },
+			{
+                "id": 1214, 
+                "title": "Graphics Security Vulnerabilities from Static Analysis"
+            }
+		], 
+        "track_image_url": ""
+    },
+	{
+        "id": 458, 
+        "name": "IT", 
+        "color": "#58D68D",
+		"font_color": "#000000",
+        "sessions": [
+			{
+                "id": 1021, 
+                "title": "Infra Training Net Ops/MOC EUS"
+            },
+			{
+                "id": 1022, 
+                "title": "Fireside Chat with Chris Beard"
+            },
+			{
+                "id": 1025, 
+                "title": "KB US Transition to Service Now"
+            },
+			{
+                "id": 1034, 
+                "title": "Agile Project Management"
+            },
+			{
+                "id": 1036, 
+                "title": "Lithium Platform Discussion"
+            },
+			{
+                "id": 1038, 
+                "title": "Berlin Design Prep Work"
+            },
+			{
+                "id": 1086, 
+                "title": "Nubis Web Ops Sprints"
+            },
+			{
+                "id": 1087, 
+                "title": "IAM"
+            },
+			{
+                "id": 1088, 
+                "title": "IT Data Center Tour"
+            },
+			{
+                "id": 1089, 
+                "title": "AWS Security Training"
+            },
+			{
+				"id": 1090,
+				"title": "IT All Hands"
+			}
+		], 
+        "track_image_url": ""
+    },
+	{
+        "id": 459, 
+        "name": "FP&A", 
+        "color": "#F5B041",
+		"font_color": "#FFFFFF",
+        "sessions": [
+			{
+                "id": 1023, 
+                "title": "Fireside Chat with Chris Beard"
+            },
+			{
+                "id": 1024, 
+                "title": "Worldview Project with Mitchell"
+            },
+			{
+                "id": 1091, 
+                "title": "Team Work Time"
+            },
+			{
+                "id": 1092, 
+                "title": "Team Work Time"
+            }
+		], 
+        "track_image_url": ""
+    },
+	{
+        "id": 460, 
+        "name": "Marketing", 
+        "color": "#229954",
+		"font_color": "#FFFFFF",
+        "sessions": [
+			{
+                "id": 1040, 
+                "title": "Durable Team Time"
+            },
+			{
+                "id": 1041, 
+                "title": "Durable Team Time"
+            },
+			{
+                "id": 1042, 
+                "title": "Durable Team Time"
+            },
+			{
+                "id": 1043, 
+                "title": "Marketing Year in Review and Looking Ahead"
+            },
+			{
+                "id": 1044, 
+                "title": "Functional Team Time"
+            },
+			{
+                "id": 1045, 
+                "title": "Functional Team Time"
+            }
+		], 
+        "track_image_url": ""
+    },
+	{
+        "id": 461, 
+        "name": "Emerging Technologies", 
+        "color": "#85C1E9",
+		"font_color": "#000000",
+        "sessions": [
+			{
+                "id": 1093, 
+                "title": "Emerging Technologies All Hands"
+            },
+			{
+                "id": 1094, 
+                "title": "Emerging Technologies Homeroom"
+            },
+			{
+                "id": 1095, 
+                "title": "Emerging Technologies Homeroom"
+            },
+			{
+                "id": 1096, 
+                "title": "Emerging Technologies Homeroom"
+            },
+			{
+                "id": 1097, 
+                "title": "Emerging Technologies Homeroom"
+            },
+			{
+                "id": 1098, 
+                "title": "Tech Speaker/Community A-Frame School"
+            },
+			{
+                "id": 1099, 
+                "title": "Emerging Technologies - Worldview Exhibit"
+            },
+			{
+                "id": 1100, 
+                "title": "Route Design Fiction Workshop"
+            }
+		], 
+        "track_image_url": ""
+    },
+	{
+        "id": 462, 
+        "name": "Meals w/ Registered Guests", 
+        "color": "#F0B27A",
+		"font_color": "#000000",
+        "sessions": [
+			{
+                "id": 1002, 
+                "title": "Welcome to San Francisco Reception"
+            },
+			{
+                "id": 1101, 
+                "title": "Closing Party at California Academy of Sciences"
+            },
+			{
+                "id": 1102, 
+                "title": "Departure Breakfast"
+            }
+		], 
+        "track_image_url": ""
+    },
+	{
+        "id": 463, 
+        "name": "People", 
+        "color": "#F4D03F",
+		"font_color": "#000000",
+        "sessions": [
+			{
+                "id": 1103, 
+                "title": "Individual Development Plan Training"
+            },
+			{
+                "id": 1104, 
+                "title": "Recruiting Hack Time"
+            },
+			{
+                "id": 1105, 
+                "title": "PLT Hack Time"
+            },
+			{
+                "id": 1106, 
+                "title": "Workday Session Reporting"
+            },
+			{
+                "id": 1107, 
+                "title": "HRBP Hack Time"
+            },
+			{
+                "id": 1108, 
+                "title": "Criteria Monitoring Training"
+            },
+			{
+                "id": 1109, 
+                "title": "PLT Strategic Planning Meeting"
+            },
+			{
+                "id": 1110, 
+                "title": "HRBP Hack Time"
+            },
+			{
+                "id": 1111, 
+                "title": "People Global Ops Hack Time"
+            },
+			{
+                "id": 1112, 
+                "title": "Recruiting Hack Time"
+            },
+			{
+                "id": 1113, 
+                "title": "Recruiting Hack Time"
+            },
+			{
+                "id": 1114, 
+                "title": "Benefits Office Hours"
+            },
+			{
+                "id": 1115, 
+                "title": "HRBP Hack Time"
+            },
+			{
+                "id": 1116, 
+                "title": "People Global Ops Hack Time"
+            },
+			{
+                "id": 1117, 
+                "title": "HRBP Hack Time"
+            },
+			{
+                "id": 1118, 
+                "title": "Employee Experience Planning"
+            },
+			{
+                "id": 1119, 
+                "title": "PLT Hack Time"
+            },
+			{
+                "id": 1120, 
+                "title": "People Global Ops Hack Time"
+            },
+			{
+                "id": 1121, 
+                "title": "HIPAA Privacy Training"
+            },
+			{
+                "id": 1122, 
+                "title": "Recruiting Hack Time"
+            },
+			{
+                "id": 1123, 
+                "title": "D&I Office Hours"
+            },
+			{
+                "id": 1124, 
+                "title": "HRBP Hack Time"
+            },
+			{
+                "id": 1125, 
+                "title": "HRBP Hack Time"
+            },
+			{
+                "id": 1126, 
+                "title": "HRBP Hack Time"
+            },
+			{
+                "id": 1127, 
+                "title": "Recruiting Hack Time"
+            },
+			{
+                "id": 1128, 
+                "title": "Recruiting Hack Time"
+            },
+			{
+                "id": 1129, 
+                "title": "PLT Hack Time"
+            },
+			{
+                "id": 1130, 
+                "title": "People Global Ops Hack Time"
+            },
+			{
+                "id": 1131, 
+                "title": "People Global Ops Hack Time"
+            }
+		], 
+        "track_image_url": ""
+    },
+	{
+        "id": 464, 
+        "name": "MoFo", 
+        "color": "#A569BD",
+		"font_color": "#FFFFFF",
+        "sessions": [
+			{
+                "id": 1132, 
+                "title": "MoFo All Hands"
+            },
+			{
+                "id": 1133, 
+                "title": "MoFo All Hands"
+            },
+			{
+                "id": 1134, 
+                "title": "MoFo Skill Share Session Block #1"
+            },
+			{
+                "id": 1135, 
+                "title": "MoFo Skill Share Session Block #1"
+            },
+			{
+                "id": 1136, 
+                "title": "MoFo Skill Share Session Block #1"
+            },
+			{
+                "id": 1137, 
+                "title": "MoFo Skill Share Session Block #1"
+            },
+			{
+                "id": 1138, 
+                "title": "MoFo Skill Share Session Block #1"
+            },
+			{
+                "id": 1139, 
+                "title": "MoFo Skill Share Session Block #2"
+            },
+			{
+                "id": 1140, 
+                "title": "MoFo Skill Share Session Block #2"
+            },
+			{
+                "id": 1141, 
+                "title": "MoFo Skill Share Session Block #2"
+            },
+			{
+                "id": 1142, 
+                "title": "MoFo Skill Share Session Block #2"
+            },
+			{
+                "id": 1143, 
+                "title": "MoFo Skill Share Session Block #2"
+            },
+			{
+                "id": 1144, 
+                "title": "MoFo OKR Working Session Block #1"
+            },
+			{
+                "id": 1145, 
+                "title": "MoFo OKR Working Session Block #1"
+            },
+			{
+                "id": 1146, 
+                "title": "MoFo OKR Working Session Block #1"
+            },
+			{
+                "id": 1147, 
+                "title": "MoFo OKR Working Session Block #1"
+            },
+			{
+                "id": 1148, 
+                "title": "MoFo OKR Working Session Block #1"
+            },
+			{
+                "id": 1149, 
+                "title": "MoFo OKR Working Session Block #2"
+            },
+			{
+                "id": 1150, 
+                "title": "MoFo OKR Working Session Block #2"
+            },
+			{
+                "id": 1151, 
+                "title": "MoFo OKR Working Session Block #2"
+            },
+			{
+                "id": 1152, 
+                "title": "MoFo OKR Working Session Block #2"
+            },
+			{
+                "id": 1153, 
+                "title": "MoFo OKR Working Session Block #2"
+            },
+			{
+                "id": 1154, 
+                "title": "MoFo OKR Working Session Block #3"
+            },
+			{
+                "id": 1155, 
+                "title": "MoFo OKR Working Session Block #3"
+            },
+			{
+                "id": 1156, 
+                "title": "MoFo OKR Working Session Block #3"
+            },
+			{
+                "id": 1157, 
+                "title": "MoFo OKR Working Session Block #3"
+            },
+			{
+                "id": 1158, 
+                "title": "MoFo OKR Working Session Block #3"
+            },
+			{
+                "id": 1159, 
+                "title": "MoFo OKR Working Session Block #4"
+            },
+			{
+                "id": 1160, 
+                "title": "MoFo OKR Working Session Block #4"
+            },
+			{
+                "id": 1161, 
+                "title": "MoFo OKR Working Session Block #4"
+            },
+			{
+                "id": 1162, 
+                "title": "MoFo OKR Working Session Block #4"
+            },
+			{
+                "id": 1163, 
+                "title": "MoFo OKR Working Session Block #4"
+            },
+			{
+                "id": 1164, 
+                "title": "MoFo OKR Working Session Block #5"
+            },
+			{
+                "id": 1165, 
+                "title": "MoFo OKR Working Session Block #5"
+            },
+			{
+                "id": 1166, 
+                "title": "MoFo OKR Working Session Block #5"
+            },
+			{
+                "id": 1167, 
+                "title": "MoFo OKR Working Session Block #5"
+            },
+			{
+                "id": 1168, 
+                "title": "MoFo OKR Working Session Block #5"
+            },
+			{
+                "id": 1169, 
+                "title": "MoFo Working Session Wrap-up and Documentation"
+            },
+			{
+                "id": 1170, 
+                "title": "MoFo Working Session Wrap-up and Documentation"
+            },
+			{
+                "id": 1171, 
+                "title": "MoFo Working Session Wrap-up and Documentation"
+            },
+			{
+                "id": 1172, 
+                "title": "MoFo Working Session Wrap-up and Documentation"
+            },
+			{
+                "id": 1173, 
+                "title": "MoFo Working Session Wrap-up and Documentation"
+            },
+			{
+                "id": 1174, 
+                "title": "MoFo All Hands - Closing"
+            }
+		], 
+        "track_image_url": ""
+    },
+	{
+        "id": 465, 
+        "name": "Office of the Chair", 
+        "color": "#C39BD3",
+		"font_color": "#000000",
+        "sessions": [
+			{
+                "id": 1175, 
+                "title": "Mozilla Worldview"
+            },
+			{
+                "id": 1176, 
+                "title": "Mozilla Worldview"
+            },
+			{
+                "id": 1177, 
+                "title": "Mozilla Worldview"
+            },
+			{
+                "id": 1178, 
+                "title": "Mozilla Worldview"
+            },
+			{
+                "id": 1179, 
+                "title": "Mozilla Worldview"
+            },
+			{
+                "id": 1180, 
+                "title": "Mozilla Worldview"
+            },
+			{
+                "id": 1181, 
+                "title": "Mozilla Worldview"
+            },
+			{
+                "id": 1182, 
+                "title": "Mozilla Worldview"
+            }
+		], 
+        "track_image_url": ""
+    },
+	{
+        "id": 466, 
+        "name": "Strategic Ops", 
+        "color": "#A6ACAF",
+		"font_color": "#000000",
+        "sessions": [
+			{
+                "id": 1183, 
+                "title": "Strategic Ops Home Room"
+            },
+			{
+                "id": 1184, 
+                "title": "Strategic Ops Home Room"
+            },
+			{
+                "id": 1185, 
+                "title": "Strategic Ops Home Room"
+            },
+			{
+                "id": 1186, 
+                "title": "Strategic Ops Home Room"
+            },
+			{
+                "id": 1187, 
+                "title": "Taipei PM Home Room"
+            },
+			{
+                "id": 1188, 
+                "title": "Taipei PM Home Room"
+            },
+			{
+                "id": 1189, 
+                "title": "Taipei PM Home Room"
+            },
+			{
+                "id": 1190, 
+                "title": "Taipei PM Home Room"
+            },
+			{
+                "id": 1191, 
+                "title": "WPR Home Room"
+            },
+			{
+                "id": 1192, 
+                "title": "WPR Home Room"
+            },
+			{
+                "id": 1193, 
+                "title": "WPR Home Room"
+            },
+			{
+                "id": 1194, 
+                "title": "WPR Home Room"
+            },
+			{
+                "id": 1211, 
+                "title": "Need help with your Q3 OKRs?"
+            },
+			{
+                "id": 1212, 
+                "title": "Need help with your Q3 OKRs?"
+            },
+			{
+                "id": 1213, 
+                "title": "Need help with your Q3 OKRs?"
+            }
+		], 
+        "track_image_url": ""
+    },
+	{
+        "id": 467, 
+        "name": "Legal/Business Development and Policy", 
+        "color": "#48C9B0",
+		"font_color": "#000000",
+        "sessions": [
+			{
+                "id": 1199, 
+                "title": "Corp. Dev. Presentations Class"
+            },
+			{
+                "id": 1200, 
+                "title": "Cross Functional Mobile Product Review"
+            }
+		], 
+        "track_image_url": ""
+    }
+]
