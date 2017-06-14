@@ -6,7 +6,7 @@
     "location_name": "San Francisco, California, USA (Hilton & Parc 55 Union Square)", 
     "start_time": "2017-06-26T12:00:00-07:00", 
     "end_time": "2017-07-01T09:30:00-07:00", 
-    "timezone": "PST", 
+    "timezone": "US/Pacific", 
     "description": "<p>All Hands are a unique and special opportunity for all paid staff and our most impactful volunteers to come together, in person, to share experiences and interact with people they may not normally work with (or just see over Vidyo). Given our size, work weeks are a key differentiator for us (larger organizations just can't do this sort of thing in a meaningful way). Being able to come together as a whole organization, 2x each year, exposes each of us to interactions that may spark new ideas and/or lead to new solutions. They are a core part of our annual planning process.</p>", 
     "background_image": "/images/mozilla_banner.png", 
     "logo": "/images/mozilla_logo.png", 
@@ -16,13 +16,28 @@
     "social_links": [
         {
             "id": 1, 
-            "link": "https://wiki.mozilla.org/All_Hands", 
-            "name": "MozillaWiki"
+            "link": "https://www.facebook.com/mozilla/", 
+            "name": "Facebook"
         },
 		{
             "id": 2, 
             "link": "https://twitter.com/mozilla", 
             "name": "Twitter"
+        },
+		{
+            "id": 3, 
+            "link": "https://www.linkedin.com/company-beta/13948/", 
+            "name": "LinkedIn"
+        },
+		{
+            "id": 4, 
+            "link": "https://www.youtube.com/user/Mozilla", 
+            "name": "YouTube"
+        },
+		{
+            "id": 5, 
+            "link": "https://plus.google.com/+firefox", 
+            "name": "Google Plus"
         }
     ], 
     "ticket_url": "", 

@@ -1328,50 +1328,6 @@
         "thumbnail": "/images/speakers/jofish_kaye.jpg"
     },
 	{
-        "id": 36, 
-        "name": "Travis Blow", 
-        "email": "tblow@gmail.com", 
-        "mobile": "", 
-        "photo": "/images/speakers/travis_blow.jpg", 
-        "organisation": "Mozilla", 
-        "position": "Manager of Cloud Services Operations", 
-        "country": "", 
-        "short_biography": "",
-		"long_biography": "",
-        "website": "", 
-        "twitter": "", 
-        "facebook": "", 
-        "github": "", 
-        "linkedin": "https://www.linkedin.com/in/travis-blow-3244195/", 
-        "city": "", 
-        "featured": false, 
-        "gender": "male", 
-        "heard_from": "", 
-        "icon": "", 
-        "sessions": [
-			{
-                "id": 1195, 
-                "title": "Firefox Engineering/Services Operations Homeroom"
-            },
-			{
-                "id": 1196, 
-                "title": "Firefox Engineering/Services Operations Homeroom"
-            },
-			{
-                "id": 1197, 
-                "title": "Firefox Engineering/Services Operations Homeroom"
-            },
-			{
-                "id": 1198, 
-                "title": "Firefox Engineering/Services Operations Homeroom"
-            }
-        ], 
-        "small": "", 
-        "speaking_experience": "", 
-        "sponsorship_required": "", 
-        "thumbnail": "/images/speakers/travis_blow.jpg"
-    },
-	{
         "id": 37, 
         "name": "Susan Chen", 
         "email": "schen@gmail.com", 
