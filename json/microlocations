@@ -374,5 +374,117 @@
         "latitude": 37.784878, 
         "longitude": -122.408965, 
         "room": ""
+    },
+	{
+        "id": 48, 
+        "name": "Franciscan D", 
+        "floor": 0, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 49, 
+        "name": "Union Square 10", 
+        "floor": 4, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 50, 
+        "name": "Embarcadero", 
+        "floor": 0, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 51, 
+        "name": "Powell", 
+        "floor": 0, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 52, 
+        "name": "Fillmore", 
+        "floor": 0, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 53, 
+        "name": "Golden Gate 6 & 7", 
+        "floor": 0, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 54, 
+        "name": "Golden Gate 5", 
+        "floor": 0, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 55, 
+        "name": "Union Square 20", 
+        "floor": 0, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 56, 
+        "name": "Union Square 22", 
+        "floor": 0, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 57, 
+        "name": "Franciscan A", 
+        "floor": 0, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 58, 
+        "name": "Union Square 9", 
+        "floor": 4, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 59, 
+        "name": "Union Square 8", 
+        "floor": 4, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 60, 
+        "name": "Offsite", 
+        "floor": 4, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
+    },
+	{
+        "id": 61, 
+        "name": "Nob Hill 9", 
+        "floor": 6, 
+        "latitude": 37.784878, 
+        "longitude": -122.408965, 
+        "room": ""
     }
 ]
